@@ -1,0 +1,8 @@
+LoginTest|PASSED|140
+CreateTaskTest|FAILED|890
+CommentTest|SKIPPED|0
+CreateTaskTest|PASSED|920
+CreateTaskTest!FAILED|89o
+DurationTest|FAILED|89o
+UnknownStatusTest|PASED|100
+NegativeDurationTest|FAILED|-10
